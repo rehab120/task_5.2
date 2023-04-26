@@ -1,0 +1,11 @@
+.container{
+    max-width:max-content;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: space-around;
+      align-items:flex-start;
+  }
+  .pp{
+      font-size: 15px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
